@@ -1,0 +1,10 @@
+C:\Users\carlos.erodrigues9\Desktop\04-Tabuada\04-Tabuada\bin\Debug\04-Tabuada.exe.config
+C:\Users\carlos.erodrigues9\Desktop\04-Tabuada\04-Tabuada\bin\Debug\04-Tabuada.exe
+C:\Users\carlos.erodrigues9\Desktop\04-Tabuada\04-Tabuada\bin\Debug\04-Tabuada.pdb
+C:\Users\carlos.erodrigues9\Desktop\04-Tabuada\04-Tabuada\obj\Debug\04-Tabuada.csproj.AssemblyReference.cache
+C:\Users\carlos.erodrigues9\Desktop\04-Tabuada\04-Tabuada\obj\Debug\_04_Tabuada.FrmTabuada.resources
+C:\Users\carlos.erodrigues9\Desktop\04-Tabuada\04-Tabuada\obj\Debug\_04_Tabuada.Properties.Resources.resources
+C:\Users\carlos.erodrigues9\Desktop\04-Tabuada\04-Tabuada\obj\Debug\04-Tabuada.csproj.GenerateResource.cache
+C:\Users\carlos.erodrigues9\Desktop\04-Tabuada\04-Tabuada\obj\Debug\04-Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\carlos.erodrigues9\Desktop\04-Tabuada\04-Tabuada\obj\Debug\04-Tabuada.exe
+C:\Users\carlos.erodrigues9\Desktop\04-Tabuada\04-Tabuada\obj\Debug\04-Tabuada.pdb

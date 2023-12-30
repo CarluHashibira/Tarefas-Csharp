@@ -1,0 +1,41 @@
+Banco de dados - sisvendas
+
+tab_usuarios
+	id_usuario	pk
+	nome
+	email
+	login
+	senha
+	frase
+	nivel
+	ativo
+
+tab_clientes
+	id_cliente	pk
+	nome
+	email
+	fone
+	dtnasc
+	sexo
+	ativo
+
+tab_produtos
+	id_produto	pk
+	nome		100
+	foto
+	descricao
+	valor
+
+tab_pedidos
+	id_pedido	pk
+	id_cliente	fk
+	id_usuario 	fk
+	data
+	total
+
+tab_itens_pedido
+	id_item		pk
+	id_pedido	fk
+	id_produto	fk
+	valor
+	qtde

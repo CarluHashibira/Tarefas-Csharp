@@ -1,0 +1,13 @@
+C:\Users\carlos.erodrigues9\Desktop\06-CRUD\06-CRUD\obj\Debug\06-CRUD.csproj.AssemblyReference.cache
+C:\Users\carlos.erodrigues9\Desktop\06-CRUD\06-CRUD\obj\Debug\_06_CRUD.Properties.Resources.resources
+C:\Users\carlos.erodrigues9\Desktop\06-CRUD\06-CRUD\obj\Debug\_06_CRUD.FrmLogin.resources
+C:\Users\carlos.erodrigues9\Desktop\06-CRUD\06-CRUD\obj\Debug\06-CRUD.csproj.GenerateResource.cache
+C:\Users\carlos.erodrigues9\Desktop\06-CRUD\06-CRUD\obj\Debug\06-CRUD.csproj.CoreCompileInputs.cache
+C:\Users\carlos.erodrigues9\Desktop\06-CRUD\06-CRUD\bin\Debug\06-CRUD.exe.config
+C:\Users\carlos.erodrigues9\Desktop\06-CRUD\06-CRUD\bin\Debug\06-CRUD.exe
+C:\Users\carlos.erodrigues9\Desktop\06-CRUD\06-CRUD\bin\Debug\06-CRUD.pdb
+C:\Users\carlos.erodrigues9\Desktop\06-CRUD\06-CRUD\obj\Debug\06-CRUD.exe
+C:\Users\carlos.erodrigues9\Desktop\06-CRUD\06-CRUD\obj\Debug\06-CRUD.pdb
+C:\Users\carlos.erodrigues9\Desktop\06-CRUD\06-CRUD\obj\Debug\_06_CRUD.Telas.frmPrincipal.resources
+C:\Users\carlos.erodrigues9\Desktop\06-CRUD\06-CRUD\obj\Debug\_06_CRUD.Telas.frmSenha.resources
+C:\Users\carlos.erodrigues9\Desktop\06-CRUD\06-CRUD\obj\Debug\_06_CRUD.Telas.frmUsuario.resources
